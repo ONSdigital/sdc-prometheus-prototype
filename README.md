@@ -44,8 +44,8 @@ configure them to hook up to the demo app!
 
 ![Importing Grafana dashboard](./screenshots/importing_grafana_dashboard.png "Importing Grafana dashboard")
 
-    - Then click Import
+Then click Import
 
-3. And you're done! Now, when you access [0.0.0.0:5000/] you'll see a
+3. And you're done! Now, when you access [Demo App](0.0.0.0:5000/) you'll see a
 lovely 'Hello World' message, but now if you go back to Grafana you'll
 find that the graphs will start updating!
