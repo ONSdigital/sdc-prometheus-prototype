@@ -46,6 +46,6 @@ configure them to hook up to the demo app!
 
 Then click Import
 
-3. And you're done! Now, when you access [Demo App](0.0.0.0:5000/) you'll see a
+3. And you're done! Now, when you access [Demo App](http://0.0.0.0:5000/) you'll see a
 lovely 'Hello World' message, but now if you go back to Grafana you'll
 find that the graphs will start updating!
